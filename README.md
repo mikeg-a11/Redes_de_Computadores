@@ -92,7 +92,6 @@ Repositório dedicado ao estudo de redes de computadores por meio da ferramenta 
 
 ## Prompt 2
     - Foi selecionada a opção de gerar um mapa mental e obteve-se o seguinte mapa: 
-![Mapa mental](/images/NotebookLM Mind Map (2).png)
     - Continuando os estudos, o seguinte Prompt foi criado com a intenção de criar um vídeo para estudar cada tópico mencionado:
         Explique detalhadamente os  conteúdos da seção "[NOME DO TÓPICO]", incluindo todos os subtópicos.
         --------------------------------------------------
